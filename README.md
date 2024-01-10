@@ -22,3 +22,10 @@ Make sure you have the following installed on your machine:
 
    ```bash
    git clone https://github.com/ladiff777/technical_task.git
+
+
+## Live Demo
+
+Check out the live demo: [FoodShala Demo](https://659e7573697f68ca991f23e1--deluxe-mooncake-3a2cc0.netlify.app/)
+
+
